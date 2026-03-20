@@ -7,6 +7,7 @@ export ARCH
 export OUTPATH=./dist
 export ADD_HOOKS="self-updater.bg.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
+export ICON=https://raw.githubusercontent.com/drhelius/Gearsystem/refs/heads/master/platforms/shared/desktop/mcp/icon.png
 export DEPLOY_GTK=1
 export DEPLOY_OPENGL=1
 
