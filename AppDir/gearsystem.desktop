@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Gearsystem
+Comment="Sega Master System, Game Gear, SG-1000 emulator"
+Exec=gearsystem
+Icon=icon
+StartupWMClass=gearsystem
+Categories=Game;Emulator
+Terminal=false
